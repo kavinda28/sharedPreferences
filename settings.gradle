@@ -1,0 +1,2 @@
+rootProject.name='saving activity state'
+include ':app'
